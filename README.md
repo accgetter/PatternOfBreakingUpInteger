@@ -32,7 +32,7 @@ ex2) four has 8 pattens
 
 4
 
- function "getPattern" in getPattern.php can get count of Patterns when you put "Number"
+ function "getPattern" in getPattern.php can get count of Patterns "Number"
  
  If you can go up three steps at once when you go up stairs that has tree steps.
  You have 4 patterns when going up stairs.
